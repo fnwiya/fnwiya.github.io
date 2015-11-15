@@ -43,6 +43,9 @@ h2 {
     margin: 0 auto;
     width: 60%;
 }
+#twitter-timeline iframe {
+    margin: 0 auto;
+    width: 80%;}
 
 footer {
     width: 100%;
