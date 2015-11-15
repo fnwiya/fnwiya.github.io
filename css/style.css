@@ -1,6 +1,4 @@
 html, body {
-    background-color: #2b303b;
-    color: #eff1f5;
     font-family: Helvetica,Arial,sans-serif;
     height: 100%;
     width: 100%;
@@ -11,6 +9,12 @@ html, body {
 h2 {
     color: #2ECC71;
 }
+
+.main {
+    background-color: #2b303b;
+    color: #eff1f5;
+}
+
 
 #about {
  background: url('../img/my_twitter_wordcloud.png');
@@ -24,16 +28,27 @@ h2 {
  height: auto;
 }
 
+#contact ul {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
 #contact li {
     font-size: 2.5em;
-}
+    display: -moz-inline-box;
+    display: inline-block;}
 
 #twitter-timeline {
     margin: 0 auto;
+    width: 60%;
 }
 
 footer {
     width: 100%;
     background-color: #343d46;
     color: #dfe1e8;
+}
+footer p {
+    margin: 0;
 }
