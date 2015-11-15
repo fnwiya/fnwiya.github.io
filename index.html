@@ -36,74 +36,100 @@
                 </div><!-- /.container-fluid -->
             </nav>
         </header>
-        <div class="main">
+        <div id="main">
             <div class="containor">
-                <div id="top" class="jumbotron">
-                    <article>
-                        <p>CL-USER> '(Hello world!)</p>
-                        <div id="next">
-                        <a class="btn btn-circle page-scroll" href="#portfolio"><i class="fa fa-angle-double-down"></i></a>
-                        </div>
+                <section id="top">
+                    <div class="jumbotron">
+                        <article>
+                            <p>CL-USER> '(Hello world!)</p>
+                            <div id="next">
+                                <a class="btn btn-circle page-scroll" href="#portfolio"><i class="fa fa-angle-double-down"></i></a>
+                            </div>
                         </article>
                         <svg version="1.1" xmlns='http://www.w3.org/2000/svg'>
                             <filter id='blur'>
                                 <feGaussianBlur stdDeviation='6' />
                             </filter>
                         </svg>
-                </div><!-- /top -->
-                <div id="about">
-                    <h2><i class="fa fa-info-circle"></i>ABOUT</h2>
-                    <ul>
-                        <li><i class="fa fa-user"></i>name: Fumiya Kohno/fnwiya</li>
-                        <li><i class="fa fa-graduation-cap"></i>: Kyoto Univ.</li>
-                        <li><i class="fa fa-black-tie"></i>job: </li>
-                    </ul>
-                </div><!-- /about -->
-                <div id="portfolio">
-                    <h2><i class="fa fa-code-fork"></i>PORTFOLIO</h2>
-                    <ul>
-                        <li><a href="http://i-vote.jp/kansai/" target="_blank">
-                            ivote関西webサイト
-                        </a></li>
-                        <li><a href="http://ivote-kansai.sakura.ne.jp/wakamono_super_conference/" target="_blank">
-                            若者超会議公式ページ
-                        </a></li>
-                        <li><a href="http://www.dot-jp.or.jp/nl/2015/0109.pdf" target="_blank">
-                            vote on campus!(2014年衆議院議員選挙模擬web投票)
-                        </a></li>
-                    </ul>
-                </div><!-- /portfolio -->
-                <div id="contact">
-                    <h2><i class="fa fa-comments"></i>CONTACT</h2>
-                    <ul class="list-inline">
-                        <li><a href="https://twitter.com/fnwiya" target="_blank">
-                            <i class="fa fa-twitter"></i>
-                        </a></li>
-                        <li><a href="https://www.facebook.com/fumiya.kohno" target="_blank">
-                            <i class="fa fa-facebook"></i>
-                        </a></li>
-                        <li><a href="https://github.com/fnwiya" target="_blank">
-                            <i class="fa fa-github"></i>
-                        </a></li>
-                        <li><a href="http://fnwiya.hatenablog.com/" target="_blank">
-                            <i class="fa fa-pencil-square-o"></i>
-                        </a></li>
-                        <li><a href="mailto:fnwiya@gmail.com" target="_blank">
-                            <i class="fa fa-envelope"></i>
-                        </a></li>
-                    </ul>
-                </div><!-- /contact -->
-                <div id="timeline">
-                    <h2><i class="fa fa-eye"></i>TIMELINE</h2>
-                    <div id="twitter-timeline">
-                        <a class="twitter-timeline" href="https://twitter.com/fnwiya" data-widget-id="665846199321165824">@fnwiyaさんのツイート</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                    </div><!-- /twitter-timeline -->
-                </div><!-- /timeline -->
+                    </div><!-- /top -->
+                </section>
+                <section id="about">
+                    <div class="about">
+                        <h2><i class="fa fa-info-circle"></i>ABOUT</h2>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td><i class="fa fa-user"></i>Name</td>
+                                    <td>Fumiya Kohno, HN: fnwiya</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fa fa-graduation-cap"></i>Edu</td>
+                                    <td>Kyoto Univ.</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fa fa-black-tie"></i>Job</td>
+                                    <td>Internship as a Engineer@<a href="http://www.forcia.com/" target="_blank">FORCIA, Inc.</a>,<a href="http://code4japan.org/" target="_blank">Code for Japan</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div><!-- /about -->
+                </section>
+                <section id="portfolio">
+                    <div>
+                        <h2><i class="fa fa-code-fork"></i>PORTFOLIO</h2>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>2014.08-</td>
+                                    <td><a href="http://i-vote.jp/kansai/" target="_blank">ivote関西webサイト</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2014.12-</td>
+                                    <td><a href="http://www.dot-jp.or.jp/nl/2015/0109.pdf" target="_blank">vote on campus!(2014年衆議院議員選挙模擬web投票)</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2015.03-</td>
+                                    <td><a href="http://ivote-kansai.sakura.ne.jp/wakamono_super_conference/" target="_blank">若者超会議公式ページ</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div><!-- /portfolio -->
+                </section>
+                <section id="contact">
+                    <div>
+                        <h2><i class="fa fa-comments"></i>CONTACT</h2>
+                        <ul class="list-inline">
+                            <li><a href="https://twitter.com/fnwiya" target="_blank">
+                                <i class="fa fa-twitter"></i>
+                            </a></li>
+                            <li><a href="https://www.facebook.com/fumiya.kohno" target="_blank">
+                                <i class="fa fa-facebook"></i>
+                            </a></li>
+                            <li><a href="https://github.com/fnwiya" target="_blank">
+                                <i class="fa fa-github"></i>
+                            </a></li>
+                            <li><a href="http://fnwiya.hatenablog.com/" target="_blank">
+                                <i class="fa fa-pencil-square-o"></i>
+                            </a></li>
+                            <li><a href="mailto:fnwiya@gmail.com" target="_blank">
+                                <i class="fa fa-envelope"></i>
+                            </a></li>
+                        </ul>
+                    </div><!-- /contact -->
+                </section>
+                <section id="timeline">
+                    <div>
+                        <h2><i class="fa fa-eye"></i>TIMELINE</h2>
+                        <div id="twitter-timeline">
+                            <a class="twitter-timeline" href="https://twitter.com/fnwiya" data-widget-id="665846199321165824">@fnwiyaさんのツイート</a>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                        </div><!-- /twitter-timeline -->
+                    </div><!-- /timeline -->
+                </section>
             </div><!-- /containor -->
         </div><!-- /main -->
         <footer id="footer">
-            <div class="contain">
+            <div class="container">
                 <div id="copyright">
                     <p>Copyright &copy; 2015 fnwiya</p>
                 </div>

@@ -29,14 +29,14 @@ a:hover {
     color: #F1C40F;
 }
 
+section {
+    padding-top: 50px;
+}
+
 .fa {
     margin: 0 5px;
 }
 
-.main {
-    background-color: #2b303b;
-    color: #eff1f5;
-}
 .btn-ghost{
   display: inline-block;
   padding: 20px 20px;
@@ -53,6 +53,12 @@ a:hover {
   color: #333;
   background: #fff;
 }
+
+#main {
+    background-color: #2b303b;
+    color: #eff1f5;
+}
+
 #top {
  background: url('../img/my_twitter_wordcloud.png');
  background-position: center center;
@@ -100,6 +106,10 @@ a:hover {
     width: 20%;;
 }
 
+#top .jumbotron {
+  background: inherit;
+}
+
 
 article {
   background: inherit;
@@ -132,6 +142,10 @@ svg {
   position: absolute;
 }
 
+.about .table>tbody>tr>td {
+    border-style: none !important;
+}
+
 #contact ul {
     margin: 0 auto;
     width: 80%;
@@ -160,4 +174,8 @@ footer {
 }
 footer p {
     margin: 0;
+}
+
+footer #copyright {
+    float: right;
 }
