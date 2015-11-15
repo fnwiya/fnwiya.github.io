@@ -1,3 +1,17 @@
+html, body {
+    background-color: #2b303b;
+    color: #eff1f5;
+    font-family: Helvetica,Arial,sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: #2ECC71;
+}
+
 #about {
  background: url('../img/my_twitter_wordcloud.png');
  background-position: center center;
@@ -10,8 +24,16 @@
  height: auto;
 }
 
+#contact li {
+    font-size: 2.5em;
+}
+
+#twitter-timeline {
+    margin: 0 auto;
+}
+
 footer {
     width: 100%;
-    background-color: #2b303b;
-    color: #eff1f5;
+    background-color: #343d46;
+    color: #dfe1e8;
 }
