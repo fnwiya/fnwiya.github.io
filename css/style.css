@@ -10,23 +10,55 @@ h2 {
     color: #2ECC71;
 }
 
+a {
+    color: #3498DB;
+}
+
+a:hover {
+    color: #F1C40F;
+}
+
+.fa {
+    margin: 0 5px;
+}
+
 .main {
     background-color: #2b303b;
     color: #eff1f5;
 }
 
 
-#about {
+#top {
  background: url('../img/my_twitter_wordcloud.png');
  background-position: center center;
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-size: cover;
  background-color: #2b303b;
+ margin: 50px 0 0 0;
  padding: 50px 0 200px 0;
  width: 100%;
- height: auto;
+ height: 30%;
 }
+
+
+.btn-ghost{
+  display: inline-block;
+  padding: 20px 20px;
+  border: solid 2px #fff;
+  border-radius: 0;
+  background: rgba(0,0,0,0.2);
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.btn-ghost:hover{
+  color: #333;
+  background: #fff;
+}
+
 
 #contact ul {
     margin: 0 auto;
@@ -35,9 +67,11 @@ h2 {
 }
 
 #contact li {
-    font-size: 2.5em;
+    font-size: 3em;
     display: -moz-inline-box;
-    display: inline-block;}
+    display: inline-block;
+    margin: 5px 10px;
+}
 
 #twitter-timeline {
     margin: 0 auto;
@@ -45,7 +79,7 @@ h2 {
 }
 #twitter-timeline iframe {
     margin: 0 auto;
-    width: 80%;}
+}
 
 footer {
     width: 100%;

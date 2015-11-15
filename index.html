@@ -5,6 +5,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="fnwiya's github.io page'">
+        <meta name="author" content="fnwiya">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
@@ -24,21 +26,33 @@
                         <a class="navbar-brand" href="#">fnwiya.github.io</a>
                     </div>
                     <div class="collapse navbar-collapse" id="navbar-collapse-1">
-                    <ul class="nav navbar-nav">
-                        <li><a href="#">ABOUT</a></li>
-                        <li><a href="#portfolio">PORTFOLIO</a></li>
-                        <li><a href="#contact">CONTACT</a></li>
-                    </ul>
+                        <ul class="nav navbar-nav">
+                            <li><a href="#about">ABOUT</a></li>
+                            <li><a href="#portfolio">PORTFOLIO</a></li>
+                            <li><a href="#contact">CONTACT</a></li>
+                            <li><a href="#timeline">TIMELINE</a></li>
+                        </ul>
                     </div><!-- /navbar-collapse-1 -->
                 </div><!-- /.container-fluid -->
             </nav>
         </header>
         <div class="main">
             <div class="containor">
+                <div id="top" class="jumbotron">
+                        <h1>Hello, world!</h1>
+                        <p></p>
+                        <p><a href="#portfolio" class="btn btn-ghost btn-lg" role="button">more</a></p>
+                </div><!-- /top -->
                 <div id="about">
+                    <h2><i class="fa fa-info-circle"></i>ABOUT</h2>
+                    <ul>
+                        <li><i class="fa fa-user"></i>name: Fumiya Kohno/fnwiya</li>
+                        <li><i class="fa fa-graduation-cap"></i>: Kyoto Univ.</li>
+                        <li><i class="fa fa-black-tie"></i>job: </li>
+                    </ul>
                 </div><!-- /about -->
                 <div id="portfolio">
-                    <h2>PORTFOLIO</h2>
+                    <h2><i class="fa fa-code-fork"></i>PORTFOLIO</h2>
                     <ul>
                         <li><a href="http://i-vote.jp/kansai/" target="_blank">
                             ivote関西webサイト
@@ -52,7 +66,7 @@
                     </ul>
                 </div><!-- /portfolio -->
                 <div id="contact">
-                    <h2>CONTACT</h2>
+                    <h2><i class="fa fa-comments"></i>CONTACT</h2>
                     <ul class="list-inline">
                         <li><a href="https://twitter.com/fnwiya" target="_blank">
                             <i class="fa fa-twitter"></i>
@@ -64,7 +78,7 @@
                             <i class="fa fa-github"></i>
                         </a></li>
                         <li><a href="http://fnwiya.hatenablog.com/" target="_blank">
-                            <i class="fa fa-pencil"></i>
+                            <i class="fa fa-pencil-square-o"></i>
                         </a></li>
                         <li><a href="mailto:fnwiya@gmail.com" target="_blank">
                             <i class="fa fa-envelope"></i>
@@ -72,7 +86,7 @@
                     </ul>
                 </div><!-- /contact -->
                 <div id="timeline">
-                    <h2>TILELINE</h2>
+                    <h2><i class="fa fa-eye"></i>TIMELINE</h2>
                     <div id="twitter-timeline">
                         <a class="twitter-timeline" href="https://twitter.com/fnwiya" data-widget-id="665846199321165824">@fnwiyaさんのツイート</a>
                         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -82,9 +96,9 @@
         </div><!-- /main -->
         <footer id="footer">
             <div class="contain">
-            <div id="copyright">
-                <p>Copyright &copy; 2015 fnwiya</p>
-            </div>
+                <div id="copyright">
+                    <p>Copyright &copy; 2015 fnwiya</p>
+                </div>
             </div>
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
