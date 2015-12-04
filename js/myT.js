@@ -2,7 +2,7 @@ $(function(){
 var elem = '#id';
 var content = 'It\'s a <del>rainy</del>sunny day in <mark class="pink">Miami, FL</mark>.';
 
-$(elem).t([content,]{
+$(elem).t(content,{
 
 //Basic settings
 speed:75,          // typing speed (ms)
@@ -24,7 +24,7 @@ fin:function(elem){}
 
 //Methods
 $(elem).t('add',content);         // adds content
-$(elem).t('pause'[,true/false]);  // pauses typing (toggles if 2nd param omitted)
+$(elem).t('pause',true);          // pauses typing (toggles if 2nd param omitted)
 
 //Data/properties
 $(elem).data('t');                // TRUE if initialised
