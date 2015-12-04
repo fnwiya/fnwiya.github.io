@@ -1,25 +1,6 @@
 /*
  * Base
  */
-*, *:after, *:before {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-}
-* {
-    margin:0;
-    padding:0;
-    border: 0 none;
-    position: relative;
-}
-
-html, body {
-    font-family: Helvetica,Arial,sans-serif;
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
-
 body a {
     color: #3498DB;
 }
@@ -35,6 +16,29 @@ section {
 
 .fa {
     margin: 0 5px;
+}
+
+.next {
+    text-align: center;
+}
+
+.next .btn-circle {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    padding: 7px 16px;
+    border: 2px solid #eff1f5;
+    border-radius: 35px;
+    font-size: 40px;
+    background: 0 0;
+    color: #eff1f5;
+}
+
+.next .btn-circle:hover,
+.next .btn-circle:focus {
+    outline: 0;
+    color: #eff1f5;
+    background: rgba(37,37,37,.1);
 }
 
 /*
@@ -74,6 +78,11 @@ section {
     border-style: none !important;
 }
 
+.about img {
+	width: 160px;
+}
+
+
 /*
  * Contact
  */
@@ -84,21 +93,13 @@ section {
 }
 
 #contact li {
-    font-size: 3em;
     display: -moz-inline-box;
     display: inline-block;
     margin: 5px 10px;
 }
 
-/*
- * Timeline
- */
-#twitter-timeline {
-    margin: 0 auto;
-    width: 60%;
-}
-#twitter-timeline iframe {
-    margin: 0 auto;
+#contact li i{
+    font-size: 3em;
 }
 
 /*
