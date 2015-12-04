@@ -1,0 +1,3 @@
+[submodule "js/t.js"]
+	path = js/t.js
+	url = https://github.com/mntn-dev/t.js.git
