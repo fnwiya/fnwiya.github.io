@@ -155,6 +155,23 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
         <script type="text/javascript" src="js/smooth_scroll.js"></script>
         <script type="text/javascript" src="js/t.js/t.min.js"></script>
-        <script type="text/javascript" src="js/myT.js"></script>
+        <script type="text/javascript">
+		$(function(){
+			$('#id').t({
+
+				//Basic settings
+				speed:75,          // typing speed (ms)
+				speed_vary:false,  // 'human-like' (bool)
+				delay:false,       // delays start for (N.)Ns
+				mistype:false,     // mistyping: 1:N per char
+				locale:'en',       // keyboard layout; 'en', 'de'
+				caret:true,        // caret (HTML); default (TRUE): ▎
+				blink:false,       // blink; if TRUE, 10ms or N ms
+				tag:'span',        // wrapper (.t-container/.t-caret)
+				repeat:false      // if TRUE, infinite or N times
+
+			});
+		});
+</script>
     </body>
 </html>
