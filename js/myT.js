@@ -1,16 +1,22 @@
-$(function(){
-$('#id').t({
+        var fin=!1;
+        function foo(){
+            $('mark').eq(0).css({background:'magenta'});
+        }
+        $(function(){
+            $('#top').t({
+                speed:35,
+                speed_vary:true,
+                mistype:20,
+                typing:function(elem,chars_total,chars_left,_char){
+                    if(_char=='*')foo();
+                },
 
-//Basic settings
-speed:75,          // typing speed (ms)
-speed_vary:false,  // 'human-like' (bool)
-delay:false,       // delays start for (N.)Ns
-mistype:false,     // mistyping: 1:N per char
-locale:'en',       // keyboard layout; 'en', 'de'
-caret:true,        // caret (HTML); default (TRUE): ▎
-blink:false,       // blink; if TRUE, 10ms or N ms
-tag:'span',        // wrapper (.t-container/.t-caret)
-repeat:false      // if TRUE, infinite or N times
-
-});
-});
+                fin:function(){
+                    if(fin==!1){
+                        fin=!!1; //avoids triggering after 'add' cmd
+                        window.setTimeout(function(){$('#t').t('add','Still here?');},2e4);
+                        window.setInterval(function(){$('#t').find('.t-caret').toggle();},5e2);
+                    }
+                }
+            });
+        });

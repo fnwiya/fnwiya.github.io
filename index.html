@@ -40,14 +40,12 @@
         <div id="main">
             <div class="containor">
                 <section id="top">
-					<mark><a href="//mn.tn/t">t.js&mdash;Demo</a></mark>
-
-					Hello world. Let's wait <del>hundred</del>two seconds ..<ins>2</ins><br/><br/>
-					<strong>Thanks for waiting.</strong> Now, t.js will detect a
-					<del>regular</del>'special' char which triggers the function <mark>foo()</mark>.
-					*<ins>2</ins><ins> &larr; Yay, FTW!!</ins>
-
-					Good <del style="color:red;border-bottom:1px dashed red;">night</del>bye.
+                    <mark><a href="//mn.tn/t">t.js&mdash;Demo</a></mark>
+                    Hello world. Let's wait <del>hundred</del>two seconds ..<ins>2</ins><br/><br/>
+                    <strong>Thanks for waiting.</strong> Now, t.js will detect a
+                    <del>regular</del>'special' char which triggers the function <mark>foo()</mark>.
+                    *<ins>2</ins><ins> &larr; Yay, FTW!!</ins>
+                    Good <del style="color:red;border-bottom:1px dashed red;">night</del>bye.
                 </section><!-- /top -->
                 <section id="about">
                     <div class="about">
@@ -155,29 +153,6 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
         <script type="text/javascript" src="js/smooth_scroll.js"></script>
         <script type="text/javascript" src="js/t.js/t.min.js"></script>
-        <script type="text/javascript">
-		var fin=!1;
-		function foo(){
-			$('mark').eq(0).css({background:'magenta'});
-		}
-		$(function(){
-			$('#top').t({
-				speed:35,
-				speed_vary:true,
-				mistype:20,
-				typing:function(elem,chars_total,chars_left,_char){
-					if(_char=='*')foo();
-				},
-
-				fin:function(){
-					if(fin==!1){
-						fin=!!1; //avoids triggering after 'add' cmd
-						window.setTimeout(function(){$('#t').t('add','Still here?');},2e4);
-						window.setInterval(function(){$('#t').find('.t-caret').toggle();},5e2);
-					}
-				}
-			});
-		});
-</script>
+        <script type="text/javascript" src="js/myT.js"></script>
     </body>
 </html>
