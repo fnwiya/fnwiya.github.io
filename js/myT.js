@@ -1,5 +1,5 @@
 $(function(){
-$('#id').t('It\'s a <del>rainy</del>sunny day in <mark class="pink">Miami, FL</mark>.',{
+$('#id').t({
 
 //Basic settings
 speed:75,          // typing speed (ms)
@@ -12,5 +12,5 @@ blink:false,       // blink; if TRUE, 10ms or N ms
 tag:'span',        // wrapper (.t-container/.t-caret)
 repeat:false      // if TRUE, infinite or N times
 
-
-});});
+});
+});
