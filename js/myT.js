@@ -16,9 +16,6 @@ repeat:false,      // if TRUE, infinite or N times
 
 });});
 
-//Methods
-$('#id').t('add',content);         // adds content
-$('#id').t('pause',true);          // pauses typing (toggles if 2nd param omitted)
 
 //Data/properties
 $('#id').data('t');                // TRUE if initialised
