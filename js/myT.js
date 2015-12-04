@@ -1,6 +1,5 @@
 $(function(){
-var content = 'It\'s a <del>rainy</del>sunny day in <mark class="pink">Miami, FL</mark>.';
-$('#id').t(content,{
+$('#id').t('It\'s a <del>rainy</del>sunny day in <mark class="pink">Miami, FL</mark>.',{
 
 //Basic settings
 speed:75,          // typing speed (ms)
