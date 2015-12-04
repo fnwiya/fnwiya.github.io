@@ -10,13 +10,7 @@ locale:'en',       // keyboard layout; 'en', 'de'
 caret:true,        // caret (HTML); default (TRUE): ▎
 blink:false,       // blink; if TRUE, 10ms or N ms
 tag:'span',        // wrapper (.t-container/.t-caret)
-repeat:false,      // if TRUE, infinite or N times
+repeat:false      // if TRUE, infinite or N times
 
 
 });});
-
-
-//Data/properties
-$('#id').data('t');                // TRUE if initialised
-$('#id').data('is_typing');        // (bool)
-$('#id').data('pause');            // (bool)
