@@ -82,6 +82,27 @@ section {
 	width: 160px;
 }
 
+/*
+ * Favorite
+ */
+
+/*
+ * Works
+ */
+#works .works-panels{
+	width: 90%;
+	margin: 0 auto;
+}
+
+#works .works-panels .works-panel{
+	margin: 0 4px;
+}
+
+#works .works-panels .works-panel img{
+	width: 100%;
+	height: 160px;
+}
+
 
 /*
  * Contact
