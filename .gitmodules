@@ -16,3 +16,6 @@
 [submodule "vendor/ScrollMenu"]
 	path = vendor/ScrollMenu
 	url = https://github.com/s-yadav/ScrollMenu.git
+[submodule "vendor/animatedModal.js"]
+	path = vendor/animatedModal.js
+	url = https://github.com/joaopereirawd/animatedModal.js.git
