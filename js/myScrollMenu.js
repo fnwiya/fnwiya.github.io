@@ -1,5 +1,7 @@
 var setupOption = {
-    template: '<div class="menu-wrap"><div class="menu"><%= label %></div></div>',
+            menuType: 'horizontal',
+            className : 'horizontal-top',
+            scrollAnchorSpacing : 0,
     anchorSetup: [
         {
             backgroundColor: "#E74C3C",
