@@ -2,23 +2,23 @@ var setupOption = {
     template: '<div class="menu-wrap"><div class="menu"><%= label %></div></div>',
     anchorSetup: [
         {
-            backgroundColor: "#dc767d",
+            backgroundColor: "#E74C3C",
             label: "Top"
         },
         {
-            backgroundColor: "#36d278",
+            backgroundColor: "#E67E22",
             label: "About"
         },
         {
-            backgroundColor: "#22cfc6",
+            backgroundColor: "#F1C40F",
             label: "Favorite"
         },
         {
-            backgroundColor: "#8794a1",
+            backgroundColor: "#2ECC71",
             label: "Works"
         },
         {
-            backgroundColor: "#1ccdaa",
+            backgroundColor: "#1ABC9C",
             label: "Contact"
         }]
 };
