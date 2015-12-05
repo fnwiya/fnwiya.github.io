@@ -1,6 +1,11 @@
 /*
  * Base
  */
+html body{
+    background-color: #2b303b;
+    color: #eff1f5;
+}
+
 body a {
     color: #3498DB;
 }
@@ -44,6 +49,19 @@ section {
 /*
  * Header
  */
+#header .navbar-default {
+    background-color: #343d46;
+    color: #dfe1e8;
+    background-image:none;
+}
+
+#header .navbar-default a{
+    color: #dfe1e8;
+}
+
+#header .navbar-default a:hover{
+    color: #E74C3C;
+}
 
 
 /*
