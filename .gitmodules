@@ -4,3 +4,6 @@
 [submodule "vendor/turbotabs"]
 	path = vendor/turbotabs
 	url = https://github.com/zutigrm/turbotabs.git
+[submodule "vendor/t.js"]
+	path = vendor/t.js
+	url = https://github.com/mntn-dev/t.js.git
