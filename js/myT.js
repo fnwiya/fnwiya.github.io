@@ -1,9 +1,9 @@
 $(function(){
     $('#code').t({
-        speed:35,
+        speed:30,
         speed_vary:true,
-		delay:1,
-        mistype:20,
+		delay:0.5,
+        mistype:25,
 		locale:'en',
 		caret:true,
 		blink:false,
