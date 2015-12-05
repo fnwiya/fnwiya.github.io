@@ -10,3 +10,9 @@
 [submodule "vendor/slick"]
 	path = vendor/slick
 	url = https://github.com/kenwheeler/slick.git
+[submodule "vendor/loadgo"]
+	path = vendor/loadgo
+	url = https://github.com/franverona/loadgo.git
+[submodule "vendor/ScrollMenu"]
+	path = vendor/ScrollMenu
+	url = https://github.com/s-yadav/ScrollMenu.git
