@@ -7,3 +7,6 @@
 [submodule "vendor/t.js"]
 	path = vendor/t.js
 	url = https://github.com/mntn-dev/t.js.git
+[submodule "vendor/slick"]
+	path = vendor/slick
+	url = https://github.com/kenwheeler/slick.git
