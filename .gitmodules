@@ -19,3 +19,6 @@
 [submodule "vendor/animatedModal.js"]
 	path = vendor/animatedModal.js
 	url = https://github.com/joaopereirawd/animatedModal.js.git
+[submodule "vendor/honeycombs.js"]
+	path = vendor/honeycombs.js
+	url = https://github.com/Tiotao/honeycombs.js.git
