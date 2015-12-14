@@ -126,6 +126,10 @@ section {
     color: #F1C40F !important;
 }
 
+.comb .inner.back .wrapper{
+    width: 100%;
+    text-align: center;
+}
 .comb .inner p {
     font-size: 0.8em;
 }
