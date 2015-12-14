@@ -126,6 +126,10 @@ section {
     color: #F1C40F !important;
 }
 
+.comb .inner p {
+    font-size: 0.9em;
+}
+
 .comb .inner p a{
     color: #3498DB;
 }
