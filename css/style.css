@@ -193,3 +193,14 @@ footer p {
 footer #copyright {
     float: right;
 }
+
+#minamikawa{
+    background: url('../img/minamikawa/minamikawa01.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 150px 0 150px 0;
+    width: 100%;
+    height: 30%;
+}
