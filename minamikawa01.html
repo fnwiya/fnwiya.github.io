@@ -14,11 +14,34 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
-        <div id="minamikawa">
+        <div id="minamikawa01">
+            <div id="minamikawa">
+                <p>
+                    えりちゃんへ<br>
+                    久しぶり！ミナミカワだよ♪
+                </p>
+            </div>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
         <script type="text/javascript" src="vendor/t.js/t.min.js"></script>
-        <script type="text/javascript" src="js/myT.js"></script>
+        <script>
+         $(function(){
+             $('#minamikawa').t({
+                 speed:8,
+                 speed_vary:true,
+		         delay:0.5,
+                 mistype:25,
+		         locale:'en',
+		         caret:true,
+		         blink:false,
+                 typing:function(){
+                 },
+
+                 fin:function(){
+                 }
+             });
+         });
+        </script>
     </body>
 </html>
