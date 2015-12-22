@@ -203,3 +203,23 @@ footer #copyright {
     width: 100vw;
     height: 100vh;
 }
+
+#minamikawa02 {
+    background: url('../img/minamikawa/minamikawa02.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+#minamikawa03 {
+    background: url('../img/minamikawa/minamikawa03.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
