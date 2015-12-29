@@ -46,6 +46,25 @@ section {
     background: rgba(37,37,37,.1);
 }
 
+#toTop {
+    position: fixed;
+    bottom: -30px;
+    right: 5px;
+    z-index: 99;
+}
+
+#toTop img {
+    width: 180px;
+    float: right;
+}
+
+#toTop a {
+    padding: 30px 0;
+    display: block;
+}
+#toTop a:hover {
+}
+
 /*
  * Header
  */
