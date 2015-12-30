@@ -28,3 +28,6 @@
 [submodule "vendor/jquery-lettering-animate"]
 	path = vendor/jquery-lettering-animate
 	url = https://github.com/giuliandrimba/jquery-lettering-animate.git
+[submodule "vendor/cheat.js"]
+	path = vendor/cheat.js
+	url = https://github.com/fivethirty/cheat.js.git
