@@ -22,3 +22,6 @@
 [submodule "vendor/honeycombs.js"]
 	path = vendor/honeycombs.js
 	url = https://github.com/Tiotao/honeycombs.js.git
+[submodule "vendor/Chart.js"]
+	path = vendor/Chart.js
+	url = https://github.com/nnnick/Chart.js.git
