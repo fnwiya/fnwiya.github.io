@@ -106,7 +106,8 @@ section {
     text-align: center;
     background-color: #2b303b;
     color: #eff1f5;
-    font: 6px/3px monospace;
+    font: 5px/2.5px monospace;
+    border: none;
 }
 
 /*
@@ -237,7 +238,7 @@ footer #copyright {
 
 @media screen and (max-width: 767px){
 
-#top #map{
-    font: 3px/1.5px monospace;
-}
+    #top #map{
+        font: 4px/2px monospace;
+    }
 }
