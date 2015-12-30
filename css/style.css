@@ -135,14 +135,14 @@ section {
 }
 
 .about .chart{
-    width: 400px;
-    height: 400px;
+    width: 400px !important;
+    height: 400px !important;
     margin: 0 auto;
 }
 
 .about .chart #myChart{
-    width: 400px;
-    height: 400px;
+    width: 400px !important;
+    height: 400px !important;
     margin: 0 auto;
 }
 

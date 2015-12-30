@@ -9,7 +9,7 @@ $(function() {
                 fillColor: "rgba(52,152,219,0.7)",  // チャート内の色
                 strokeColor: "#eff1f5",  // チャートを囲む線の色
                 pointColor: "#eff1f5",   // チャートの点の色
-                pointStrokeColor: "#2b303b",    // 点を囲む線の色
+                pointStrokeColor: "#eff1f5",    // 点を囲む線の色
                 // 各項目の値
                 data: [6,8,2,9,6]
             }
