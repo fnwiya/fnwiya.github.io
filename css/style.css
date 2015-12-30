@@ -102,27 +102,6 @@ section {
   height: 30%;
 }
 
-#top #code {
-    width: 80%;
-    margin: 0 auto;
-    border: solid 2px #dfe1e8;
-}
-
-#top #code ins{
-    text-decoration: none;
-}
-
-
-#top #code .code-green{
-    color: #2ECC71;
-}
-
-
-#top #code img{
-    width: 80%;
-    margin: 0 10%;
-}
-
 /*
  * About
  */
@@ -142,6 +121,31 @@ section {
 
 .about .chart #myChart{
     margin: 0 auto;
+}
+
+
+/*
+ * Message
+ */
+#message #code {
+    width: 80%;
+    margin: 0 auto;
+    border: solid 2px #dfe1e8;
+}
+
+#message #code ins{
+    text-decoration: none;
+}
+
+
+#message #code .code-green{
+    color: #2ECC71;
+}
+
+
+#message #code img{
+    width: 80%;
+    margin: 0 10%;
 }
 
 /*
