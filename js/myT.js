@@ -1,6 +1,6 @@
 $(function(){
     $('#code').t({
-        speed:15,
+        speed:6,
         speed_vary:true,
 		delay:0.5,
         mistype:25,
