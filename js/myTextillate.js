@@ -1,4 +1,4 @@
-$('#map').textillate({
+$('.tlt').textillate({
         in: {
             effect: 'bounceDown',
             shuffle: false
