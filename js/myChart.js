@@ -6,17 +6,17 @@ $(function() {
         datasets: [
             {
                 // 透明を使いたいのでRGBAで色を再現→rgba(xxx,xxx,xxx,0.5):透過度50%
-                fillColor: "rgba(244,250,130,0.7)",  // チャート内の色
-                strokeColor: "#111111",  // チャートを囲む線の色
-                pointColor: "#111111",   // チャートの点の色
-                pointStrokeColor: "#fff",    // 点を囲む線の色
+                fillColor: "rgba(52,152,219,0.7)",  // チャート内の色
+                strokeColor: "#eff1f5",  // チャートを囲む線の色
+                pointColor: "#eff1f5",   // チャートの点の色
+                pointStrokeColor: "#2b303b",    // 点を囲む線の色
                 // 各項目の値
                 data: [6,8,2,9,6]
             }
         ]
     };
     // レーダーチャートの目盛とかの設定
-    var canvas = document.getElementById("canvas");
+    var canvas = document.getElementById("myChart");
     var context = canvas.getContext("2d");
     var chart = new Chart(context);
     var rader = chart.Radar(radarChartData, {
@@ -25,7 +25,7 @@ $(function() {
         scaleOverride : true, // 目盛の最大値を手動設定（true/false）
         scaleSteps : 10, // 目盛の数
         scaleStartValue : 0, // 目盛の最初の数
-        scaleStepWidth : 1, // 目盛の間隔
+        scaleStepWidth : 1 // 目盛の間隔
         // 目盛の最大値の計算：scaleSteps（目盛の数）→5　scaleStepWidth（目盛の間隔）→2 だと5×2で最大値は10
     });
 });

@@ -134,6 +134,18 @@ section {
     width: 160px;
 }
 
+.about .chart{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.about .chart #myChart{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
 /*
  * Favorite
  */
