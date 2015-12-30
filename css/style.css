@@ -233,3 +233,11 @@ footer p {
 footer #copyright {
     float: right;
 }
+
+
+@media screen and (max-width: 767px){
+
+#top #map{
+    font: 3px/1.5px monospace;
+}
+}
