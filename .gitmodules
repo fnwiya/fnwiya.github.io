@@ -31,3 +31,6 @@
 [submodule "vendor/cheat.js"]
 	path = vendor/cheat.js
 	url = https://github.com/fivethirty/cheat.js.git
+[submodule "vendor/textillate"]
+	path = vendor/textillate
+	url = https://github.com/jschr/textillate.git
