@@ -103,12 +103,17 @@ section {
 }
 
 #top #map{
-    text-align: center;
     background-color: #2b303b;
     color: #eff1f5;
     border: none;
-    font: 16px/16px monospace;
+    font: 25px/25px monospace;
+    margin: 0 auto;
 }
+
+#top #map{
+    margin: 0 auto;
+}
+
 
 /*
  * About
