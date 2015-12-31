@@ -1,6 +1,6 @@
 $(function(){
     $('#map').t({
-        speed:6,
+        speed:10,
         speed_vary:true,
 		delay:0.5,
         mistype:25,

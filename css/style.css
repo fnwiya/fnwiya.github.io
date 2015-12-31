@@ -115,6 +115,10 @@ section {
     margin: 0 auto;
 }
 
+#top #map ins{
+    text-decoration: none;
+}
+
 
 /*
  * About
