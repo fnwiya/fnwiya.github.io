@@ -103,6 +103,7 @@ section {
 }
 
 #top #map{
+    margin: 0 auto;
     text-align: center;
     background-color: #2b303b;
     color: #eff1f5;
@@ -237,7 +238,4 @@ footer #copyright {
 
 @media screen and (max-width: 767px){
 
-    #top #map{
- 
-    }
 }
