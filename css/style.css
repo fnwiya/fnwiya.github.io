@@ -103,14 +103,11 @@ section {
 }
 
 #top #map{
-    margin: 0 auto;
     text-align: center;
     background-color: #2b303b;
     color: #eff1f5;
     border: none;
-}
-
-#top #map span{
+    font: 8px/8px monospace;
 }
 
 /*
