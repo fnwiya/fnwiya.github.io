@@ -11,7 +11,7 @@ $(function() {
                 pointColor: "#eff1f5",              // チャートの点の色
                 pointStrokeColor: "#eff1f5",        // 点を囲む線の色
                 // 各項目の値
-                data: [10,2,7,10,4]
+                data: [10,2,7,10,5]
             }
         ]
     };
