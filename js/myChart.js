@@ -2,7 +2,7 @@ $(function() {
     // チャートの枠組み
     var radarChartData = {
         // 項目
-        labels: ["道具へのこだわり", "アルコール耐性", "情報収集", "甘党", "proCon"],
+        labels: ["道具へのこだわり", "アルコール耐性", "情報収集", "甘党", "競プロ"],
         datasets: [
             {
                 // 透明を使いたいのでRGBAで色を再現→rgba(xxx,xxx,xxx,0.5):透過度50%
