@@ -108,6 +108,7 @@ section {
     border: none;
     font: 25px/25px monospace;
     margin: 0 auto;
+    width: 60%;
 }
 
 #top #map{
@@ -242,5 +243,9 @@ footer #copyright {
 
 
 @media screen and (max-width: 767px){
+#top #map{
+    font: 15px/15px monospace;
+    width: 80%;
+}
 
 }
