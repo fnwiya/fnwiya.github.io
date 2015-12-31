@@ -2,7 +2,7 @@ $(function(){
     $('#map').t({
         speed:10,
         speed_vary:true,
-		delay:0.5,
+		delay:0,
         mistype:25,
 		locale:'en',
 		caret:true,
