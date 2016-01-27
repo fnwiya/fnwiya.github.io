@@ -2,7 +2,7 @@ $(function() {
     // チャートの枠組み
     var radarChartData = {
         // 項目
-        labels: ["道具へのこだわり", "アルコール耐性", "カフェイン摂取量", "甘党", "早起き"],
+        labels: ["画力", "アルコール耐性", "カフェイン摂取量", "甘党", "早起き"],
         datasets: [
             {
                 // 透明を使いたいのでRGBAで色を再現→rgba(xxx,xxx,xxx,0.5):透過度50%
@@ -11,7 +11,7 @@ $(function() {
                 pointColor: "#eff1f5",              // チャートの点の色
                 pointStrokeColor: "#eff1f5",        // 点を囲む線の色
                 // 各項目の値
-                data: [10,2,7,10,5]
+                data: [3,2,7,10,5]
             }
         ]
     };
