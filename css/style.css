@@ -212,6 +212,9 @@ section {
 #works .pinterest-widget{
     margin: 15px auto;
 }
+#works .pinterest-widget span.PIN_1453889606462_embed_grid{
+    margin: 0 auto!important;
+}
 
 /*
  * Contact
