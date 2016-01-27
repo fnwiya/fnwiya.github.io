@@ -209,6 +209,9 @@ section {
     height: 160px;
 }
 
+#works .pinterest-widget{
+    margin: 15px auto;
+}
 
 /*
  * Contact
