@@ -209,9 +209,13 @@ section {
     height: 160px;
 }
 
-#works .pinterest-widget{
+#works .pinterest-widget {
     margin: 50px auto 5px;
-    width: 400px;
+    width: 40%;
+    overflow: scroll;
+}
+#works .pinterest-widget span{
+    margin: 0 auto!important;
 }
 
 
@@ -255,6 +259,9 @@ footer #copyright {
 #top #map{
     font: 20px/20px monospace;
     width: 80%;
+}
+#works .pinterest-widget{
+    width: 100%;
 }
 
 }
