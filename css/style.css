@@ -216,6 +216,7 @@ section {
 }
 #works .pinterest-widget span{
     margin: 0 auto!important;
+    width: 100%;
 }
 
 
