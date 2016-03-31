@@ -204,6 +204,10 @@ section {
     margin: 0 4px;
 }
 
+#works .works-panels .works-panel img{
+    width: 100%;
+    height: 160px;
+}
 
 /*
  * Contact
