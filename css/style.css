@@ -1,7 +1,7 @@
 /*
  * Base
  */
-html body{
+html body {
     background-color: #2b303b;
     color: #eff1f5;
 }
@@ -32,14 +32,9 @@ section {
     background-image:none;
 }
 
-#header .navbar-default a{
+#header .navbar-default a {
     color: #dfe1e8;
 }
-
-#header .navbar-default a:hover{
-    color: #E74C3C;
-}
-
 
 /*
  * Main
@@ -60,7 +55,7 @@ section {
     height: 100vh;
 }
 
-#top #map{
+#top #map {
     background-color: #2b303b;
     color: #eff1f5;
     border: none;
@@ -69,11 +64,11 @@ section {
     width: 60%;
 }
 
-#top #map{
+#top #map {
     margin: 0 auto;
 }
 
-#top #map ins{
+#top #map ins {
     text-decoration: none;
 }
 
@@ -81,21 +76,21 @@ section {
 /*
  * About
  */
-.about .table>tbody>tr>td {
+#about .about .table>tbody>tr>td {
     border-style: none !important;
 }
 
-.about img {
+#about .about img {
     width: 160px;
 }
 
-.about .chart{
+#about .about .chart {
     width: 300px;
     height: 300px;
     margin: 0 auto;
 }
 
-.about .chart #myChart{
+#about .about .chart #myChart {
     margin: 0 auto;
 }
 
@@ -103,42 +98,42 @@ section {
 /*
  * Favorite
  */
-#favorite .comb .icon-hex-lg{
+#favorite .comb .icon-hex-lg {
     color: #3498DB;
 }
 
-.comb:hover > span {
+#favorite .comb:hover > span {
     color: #F1C40F !important;
 }
 
-.comb .inner.back{
+#favorite .comb .inner.back {
     padding: 2em;
 }
-.comb .inner.back .wrapper{
+#favorite .comb .inner.back .wrapper {
     width: 100%;
     text-align: center;
 }
-.comb .inner p {
+#favorite .comb .inner p {
     font-size: 0.8em;
 }
 
-.comb .inner p a{
+#favorite .comb .inner p a {
     color: #3498DB;
 }
 
 /*
  * Works
  */
-#works .works-panels{
+#works .works-panels {
     width: 84%;
     margin: 0 auto;
 }
 
-#works .works-panels .works-panel{
+#works .works-panels .works-panel {
     margin: 0 4px;
 }
 
-#works .works-panels .works-panel img{
+#works .works-panels .works-panel img {
     width: 100%;
     height: 160px;
 }
@@ -158,7 +153,7 @@ section {
     margin: 5px 10px;
 }
 
-#contact li i{
+#contact li i {
     font-size: 3em;
 }
 
@@ -180,12 +175,8 @@ footer #copyright {
 
 
 @media screen and (max-width: 767px){
-    #top #map{
+    #top #map {
         font: 20px/20px monospace;
         width: 80%;
     }
-    #works .pinterest-widget{
-        width: 90%;
-    }
-
 }
