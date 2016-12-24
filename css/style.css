@@ -36,6 +36,10 @@ section {
     color: #dfe1e8;
 }
 
+#header .navbar-default a:hover {
+    color: #F1C40F;
+}
+
 /*
  * Main
  */
