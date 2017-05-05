@@ -80,6 +80,12 @@ section {
 /*
  * About
  */
+#about {
+    text-align: center;
+}
+#about .about .table{
+    text-align: left
+}
 #about .about .table>tbody>tr>td {
     border-style: none !important;
 }
