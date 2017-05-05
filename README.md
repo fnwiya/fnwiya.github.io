@@ -1,2 +1,2 @@
-自己紹介用ページ
+About me.
 [http://fnwiya.github.io/](http://fnwiya.github.io/)
