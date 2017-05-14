@@ -1,8 +1,7 @@
 $(function() {
-    // チャートの枠組み
     var radarChartData = {
         // 項目
-        labels: ["甘党", "画力", "アルコール耐性", "カフェイン摂取量", "早起き"],
+        labels: ["sweet tooth", "drawing ability", "tolerant to alcohol", "caffeine consumption", "getting up early"],
         datasets: [
             {
                 // 透明を使いたいのでRGBAで色を再現→rgba(xxx,xxx,xxx,0.5):透過度50%
