@@ -1,0 +1,22 @@
+{
+  "name": "fnwiya.github.io",
+  "version": "1.0.0",
+  "description": "About me. [http://fnwiya.github.io/](http://fnwiya.github.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnwiya/fnwiya.github.io.git"
+  },
+  "author": "fnwiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnwiya/fnwiya.github.io/issues"
+  },
+  "homepage": "https://github.com/fnwiya/fnwiya.github.io#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
