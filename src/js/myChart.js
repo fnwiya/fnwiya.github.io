@@ -1,4 +1,4 @@
-$(function() {
+const chart = function() {
     var radarChartData = {
         // 項目
         labels: ["sweet tooth", "drawing ability", "tolerant to alcohol", "caffeine consumption", "getting up early"],
@@ -29,4 +29,5 @@ $(function() {
         //                     scaleStepWidth（目盛の間隔）→2
         // だと5×2で最大値は10
     });
-});
+};
+export default chart;
