@@ -1,5 +1,4 @@
-import $ from 'jquery'
-const slick = function() {
+$(function(){
     $('.works-panels').slick({
         infinite: true
         ,dots: true
@@ -16,6 +15,4 @@ const slick = function() {
             }
         ]
     });
-};
-
-export default slick;
+});

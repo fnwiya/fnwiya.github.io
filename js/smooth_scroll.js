@@ -1,5 +1,4 @@
-import $ from 'jquery'
-const smooth_scroll = function() {
+$(function(){
    // #で始まるアンカーをクリックした場合に処理
    $('a[href^=#]').click(function() {
       // スクロールの速度
@@ -14,6 +13,4 @@ const smooth_scroll = function() {
       $('body,html').animate({scrollTop:position}, speed, 'swing');
       return false;
    });
-};
-
-export default smooth_scroll;
+});
