@@ -1,6 +1,4 @@
 import $ from 'jquery'
-var T = require('SpSlidemenu');
-
 const T_top = function() {
   $('#map').t({
     speed:10,
