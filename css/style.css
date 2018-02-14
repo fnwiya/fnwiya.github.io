@@ -142,6 +142,11 @@ section {
     height: 160px;
 }
 
+#works .github-glass {
+    margin: 45px 0 0 0;
+    text-align: center;
+}
+
 /*
  * Contact
  */
