@@ -147,6 +147,10 @@ section {
     text-align: center;
 }
 
+#works .github-glass img {
+    width: 100%;
+}
+
 /*
  * Contact
  */
