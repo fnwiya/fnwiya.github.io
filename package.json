@@ -1,22 +1,21 @@
 {
   "name": "fnwiya.github.io",
   "version": "1.0.0",
-  "description": "About me. [http://fnwiya.github.io/](http://fnwiya.github.io/)",
   "main": "index.js",
+  "repository": "https://github.com/fnwiya/fnwiya.github.io",
+  "author": "fnwiya <fnwiya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "markdown-to-jsx": "^6.10.3",
+    "next": "^9.1.4",
+    "raw-loader": "^4.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fnwiya/fnwiya.github.io.git"
-  },
-  "author": "fnwiya",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fnwiya/fnwiya.github.io/issues"
-  },
-  "homepage": "https://github.com/fnwiya/fnwiya.github.io#readme",
-  "devDependencies": {
-    "webpack": "^3.10.0"
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
   }
 }
