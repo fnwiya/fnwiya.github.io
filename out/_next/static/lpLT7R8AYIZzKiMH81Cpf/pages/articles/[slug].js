@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{PLHe:function(n,e,o){"use strict";o.r(e);var t=o("q1tI"),i=o.n(t).a.createElement;e.default=function(){return i("div",null,"Coming Soon")}},Ujwm:function(n,e,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/articles/[slug]",function(){return o("PLHe")}])}},[["Ujwm",0,1]]]);
