@@ -6,6 +6,8 @@
   "author": "fnwiya <fnwiya@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.23",
+    "@emotion/core": "^10.0.22",
     "express": "^4.17.1",
     "markdown-to-jsx": "^6.10.3",
     "next": "^9.1.4",
