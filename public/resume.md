@@ -2,7 +2,11 @@
 
 ## プロフィール
 
-フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務める。2020 年 4 月より株式会社 Boulder に ChiefProductOfficer として参画。NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情報可視化サービス「JAPAN CHOICE」をリリース。 京都大学法学部卒、武蔵野美術大学通信教育課程芸術文化学科文化支援コース在籍中
+フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務める。2020 年 4 月より株式会社 Boulder に Chief Product Officer として参画。  
+NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情報可視化サービス「JAPAN CHOICE」をリリース。  
+ 京都大学法学部卒、武蔵野美術大学通信教育課程芸術文化学科文化支援コース在籍中
+
+---
 
 ## スキル
 
@@ -23,13 +27,18 @@
   - React Native
   - Elasticsearch
   - Kubernetes
+  - AWS ECS
+  - AWS CodePipeline
   - Ansible
 
 ### プロダクトマネジメント
 
-- 開発計画の策定
+- BtoB SaaS の立ち上げ
+- 開発ロードマップの策定
 - ユーザーインタビュー
 - プロトタイピング
+
+---
 
 ## 経歴
 
@@ -38,19 +47,20 @@
 - β 版リリース
 - カスタマーサクセスを兼務し、ユーザーの声を取り入れた開発計画策定を実施
 
+### 武蔵野美術大学 通信教育課程芸術文化学科文化支援コース 2019.10 -
+
 ### [株式会社ユーザベース](https://www.uzabase.com/) 2018.08 -
 
-- 国内最大のスタートアップデータベース entrepedia(https://biz.entrepedia.jp/)の開発
 - 起業家と未来の仲間をつなげるライブアプリ ami の立ち上げ
-- entrepedia の[INITIAL](http://initial.inc/)へのリブランディングを PM としてリード
-- その後引き続き PdM として INITIAL の開発全体を統括
+- [INITIAL](http://initial.inc/)の[リブランディング](https://www.uzabase.com/jp/news/initial-release/)を PM としてリード
+- 引き続き PdM として INITIAL の開発全体を統括
 
 ### [NPO 法人 Mielka](mielka.org) 2017.04 -
 
 - 前身となる ivote 関西の立ち上げメンバーとして副代表を務める
 - 参院選時に政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
-  - https://www.buzzfeed.com/jp/harunayamazaki/japan-choice
-  - 第五回「広告業界の若手が選ぶ、コミュニケーション大賞 」優秀賞受賞 http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf
+  - [BuzzFeed](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice)
+  - [第五回「広告業界の若手が選ぶ、コミュニケーション大賞 」優秀賞受賞](http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf)
 
 ### [フォルシア株式会社](http://www.forcia.com/) 2016.04 - 2018.07
 
@@ -68,6 +78,8 @@
 - 模擬投票アプリケーション「Vote on Campus!」の開発
 
 ### 京都大学 法学部 2012.04 - 2016.03
+
+---
 
 ## 連絡先
 
