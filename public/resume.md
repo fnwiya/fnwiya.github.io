@@ -67,7 +67,8 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 - 前身となる ivote 関西の立ち上げメンバーとして副代表を務める
 - 参院選時に政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
   - [BuzzFeed](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice)
-  - [第五回「広告業界の若手が選ぶ、コミュニケーション大賞 」優秀賞受賞](http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf)
+  - [第五回 広告業界の若手が選ぶ、コミュニケーション大賞 優秀賞受賞](http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf)
+  - [第 14 回マニフェスト大賞 コミュニケーション戦略賞 受賞](http://www.local-manifesto.jp/manifestoaward/docs/2019100300024/?fbclid=IwAR13TzGqaoKqETY63tUKJMiXUudQHQpJWistVGLbn4uPmJ7abRSEUTrH_Tw)
 
 ### [フォルシア株式会社](http://www.forcia.com/) 2016.04 - 2018.07
 
