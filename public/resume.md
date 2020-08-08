@@ -48,6 +48,13 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 
 ---
 
+## アウトプット
+
+- GitHub: [https://github.com/fnwiya](https://github.com/fnwiya)
+- Note: [https://note.com/fnwiya](https://note.com/fnwiya)
+
+---
+
 ## 経歴
 
 ### [株式会社 Boulder](https://b-boulder.com/) 2020.04 -
@@ -90,5 +97,5 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 
 ## 連絡先
 
-- GitHub: [https://github.com/fnwiya](https://github.com/fnwiya)
 - Twitter: [https://twitter.com/fnwiya](https://twitter.com/fnwiya)
+- Facebook: [https://www.facebook.com/fumiya.kohno](https://www.facebook.com/fumiya.kohno)
