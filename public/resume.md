@@ -2,7 +2,7 @@
 
 ## プロフィール
 
-フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務める。2020 年 4 月より株式会社 Boulder に Chief Product Officer として参画。  
+フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 Boulder に Chief Product Officer として参画。  
 NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情報可視化サービス「JAPAN CHOICE」をリリース。  
 京都大学法学部卒、武蔵野美術大学通信教育課程芸術文化学科文化支援コース在籍中
 
@@ -72,7 +72,7 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 - 在籍期間:2018.08 -
 - 起業家と未来の仲間をつなげるライブアプリ ami の立ち上げ
 - 事業統合を伴う[リブランディング](https://www.uzabase.com/jp/news/initial-release/)を PM としてリード
-- 引き続き PdM として INITIAL の開発全体を統括
+- [2021 年 4 月より INITIAL 事業 執行役員 CPO](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/)
 
 ### NPO 法人 Mielka
 
