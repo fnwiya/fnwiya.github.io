@@ -73,6 +73,8 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 - 起業家と未来の仲間をつなげるライブアプリ ami の立ち上げ
 - 事業統合を伴う[リブランディング](https://www.uzabase.com/jp/news/initial-release/)を PM としてリード
 - [2021 年 4 月より INITIAL 事業 執行役員 CPO](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/)
+- 2021 年度 10 月プロジェクトリーダーとして[NewsPicks スタートアップ](https://www.uzabase.com/jp/news/newspicksstartup/)をローンチ。
+- [2021 年度グッドデザイン賞](https://www.uzabase.com/jp/news/initial-gooddesign-award-2021/)をディレクターとして受賞
 
 ### NPO 法人 Mielka
 
