@@ -2,8 +2,8 @@
 
 ## プロフィール
 
-フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 Boulder に Chief Product Officer として参画。  
-NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情報可視化サービス「JAPAN CHOICE」をリリース。  
+フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 wellday に Chief Product Officer として参画。  
+NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選、2021 衆院選時に政治情報可視化サービス「JAPAN CHOICE」をリリース。  
 京都大学法学部卒、武蔵野美術大学通信教育課程芸術文化学科文化支援コース在籍中
 
 ---
@@ -13,15 +13,17 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 ### 開発
 
 - 得意
-  - React/Redux/Next.js
+  - React/Next.js
   - Ruby on Rails
-  - Node.js(Express)
+  - Node.js
   - PostgreSQL
-  - AWS Media Services を用いたライブ配信
+  - AWS Media Services
   - Contentful
   - Firebase
 - できる
-  - Rust/Python/PHP
+  - Rust
+  - Python
+  - PHP
   - Vue/Nuxt.js
   - D3.js
   - React Native
@@ -30,6 +32,8 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
   - AWS ECS
   - AWS CodePipeline
   - Ansible
+  - GCP
+  - k8s
 
 ### プロダクトマネジメント
 
@@ -46,6 +50,7 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 - 法律
 - 美術
 - ファッション
+- 写真
 
 ---
 
@@ -58,10 +63,9 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選時に政治情
 
 ## 経歴
 
-### 株式会社 Boulder
+### 株式会社 wellday
 
 - 在籍期間:2020.04 -
-- β 版リリース
 
 ### 武蔵野美術大学 通信教育課程芸術文化学科文化支援コース
 
