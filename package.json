@@ -20,5 +20,9 @@
     "build": "next build",
     "start": "next start",
     "export": "next export && cp -f out/index.html ."
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "eslint": "^8.10.0"
   }
 }
