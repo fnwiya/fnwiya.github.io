@@ -3,7 +3,7 @@
 ## プロフィール
 
 フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 wellday に Chief Product Officer として参画。  
-NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選、2021 衆院選時に政治情報可視化サービス「JAPAN CHOICE」をリリース。  
+NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOICE」をリリース。
 京都大学法学部卒、武蔵野美術大学通信教育課程芸術文化学科文化支援コース在籍中
 
 ---
@@ -27,13 +27,10 @@ NPO 法人 Mielka 理事として 2017 衆院選、2019 参院選、2021 衆院�
   - Vue/Nuxt.js
   - D3.js
   - React Native
-  - Elasticsearch
   - Kubernetes
   - AWS ECS
   - AWS CodePipeline
   - Ansible
-  - GCP
-  - k8s
 
 ### プロダクトマネジメント
 
