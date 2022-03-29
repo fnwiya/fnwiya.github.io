@@ -84,7 +84,8 @@ NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOIC
 - 参院選時に政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
   - [BuzzFeed](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice)
   - [第五回 広告業界の若手が選ぶ、コミュニケーション大賞 優秀賞受賞](http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf)
-  - [第 14 回マニフェスト大賞 コミュニケーション戦略賞 受賞](http://www.local-manifesto.jp/manifestoaward/docs/2019100300024/?fbclid=IwAR13TzGqaoKqETY63tUKJMiXUudQHQpJWistVGLbn4uPmJ7abRSEUTrH_Tw)
+  - [第 14 回マニフェスト大賞 コミュニケーション戦略賞 受賞](http://www.local-manifesto.jp/manifestoaward/docs/2019100300024/)
+  - [Internet Media Awards 2022 グランプリ 受賞](https://jima.media/ima2022/list-of-awards/)
 
 ### フォルシア株式会社
 
