@@ -2,7 +2,7 @@
 
 ## プロフィール
 
-フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 wellday に Chief Product Officer として参画。  
+フォルシア株式会社に新卒入社、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 wellday に Chief Product Officer として参画。  
 NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」をリリース。
 
 ---
@@ -17,16 +17,13 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
   - Node.js
   - PostgreSQL
   - AWS Media Services
-  - Contentful
   - Firebase
 - できる
   - Rust
   - Python
-  - PHP
   - Vue/Nuxt.js
   - D3.js
   - React Native
-  - Kubernetes
   - AWS ECS
   - AWS CodePipeline
 
@@ -79,7 +76,7 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 
 - 在籍期間:2018.08 -
 - 起業家と未来の仲間をつなげるライブアプリ ami の立ち上げ
-- 事業統合を伴う[リブランディング](https://www.uzabase.com/jp/news/initial-release/)を PM としてリード
+- 事業統合を伴う[リブランディング](https://www.uzabase.com/jp/news/initial-release/)を PjM としてリード
 - [2021 年 4 月より INITIAL 事業 執行役員 CPO](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/)
 - 2021 年度 10 月プロジェクトリーダーとして[NewsPicks スタートアップ](https://www.uzabase.com/jp/news/newspicksstartup/)をローンチ。
 - [2021 年度グッドデザイン賞](https://www.uzabase.com/jp/news/initial-gooddesign-award-2021/)をディレクターとして受賞
@@ -89,7 +86,7 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 - 在籍期間:2017.04 -
 - 前身となる ivote 関西の立ち上げメンバーとして副代表を務める
 - 2020.4 より理事就任
-- 参院選時に政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
+- 政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
   - [BuzzFeed](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice)
   - [第五回 広告業界の若手が選ぶ、コミュニケーション大賞 優秀賞受賞](http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf)
   - [第 14 回マニフェスト大賞 コミュニケーション戦略賞 受賞](http://www.local-manifesto.jp/manifestoaward/docs/2019100300024/)
