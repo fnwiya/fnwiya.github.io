@@ -3,8 +3,7 @@
 ## プロフィール
 
 フォルシア株式会社に新卒入社、検索エンジン「Spook」の開発及び全社の技術戦略推進に従事し、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 wellday に Chief Product Officer として参画。  
-NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOICE」をリリース。
-京都大学法学部卒、武蔵野美術大学通信教育課程芸術文化学科文化支援コース在籍中
+NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」をリリース。
 
 ---
 
@@ -30,12 +29,10 @@ NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOIC
   - Kubernetes
   - AWS ECS
   - AWS CodePipeline
-  - Ansible
 
 ### プロダクトマネジメント
 
 - BtoB SaaS の立ち上げ
-- ユーザーリサーチ
 - ファシリテーション
 
 ### ドメイン
@@ -43,11 +40,12 @@ NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOIC
 - 政治/選挙
 - 旅行
 - スタートアップ
-- ヘルスケア
+- ヘルスケア/well-being
 - 法律
 - 美術
 - ファッション
 - 写真
+- 哲学
 
 ---
 
@@ -66,7 +64,7 @@ NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOIC
 
 ### 武蔵野美術大学 通信教育課程芸術文化学科文化支援コース
 
-- 在籍期間:2019.10 -
+- 在籍期間:2019.09 - 2022.3 中退
 
 ### 株式会社ユーザベース
 
@@ -81,11 +79,13 @@ NPO 法人 Mielka 理事として政治情報可視化サービス「JAPAN CHOIC
 
 - 在籍期間:2017.04 -
 - 前身となる ivote 関西の立ち上げメンバーとして副代表を務める
+- 2020.4 より理事就任
 - 参院選時に政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
   - [BuzzFeed](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice)
   - [第五回 広告業界の若手が選ぶ、コミュニケーション大賞 優秀賞受賞](http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf)
   - [第 14 回マニフェスト大賞 コミュニケーション戦略賞 受賞](http://www.local-manifesto.jp/manifestoaward/docs/2019100300024/)
   - [Internet Media Awards 2022 グランプリ 受賞](https://jima.media/ima2022/list-of-awards/)
+- 2022.6 理事退任、顧問就任
 
 ### フォルシア株式会社
 
