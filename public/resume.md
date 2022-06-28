@@ -54,6 +54,15 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 - GitHub: [https://github.com/fnwiya](https://github.com/fnwiya)
 - note: [https://note.com/fnwiya](https://note.com/fnwiya)
 
+### 登壇
+
+- 2018.11 [Shinjuku.rs #1 @FORCIA](https://forcia.connpass.com/event/105485/)
+  - [Serverless Rust](https://speakerdeck.com/fnwiya/serverless-rust)
+- 2018.09 [Roppongi.js #6@メルカリ](https://roppongi-js.connpass.com/event/98983/)
+  - [WebAssembly のこれまでとこれから](https://speakerdeck.com/fnwiya/webassembly-future)
+- 2018.09 [Rust の LT 会！ Rust 入門者の集い #5](https://rust.connpass.com/event/92821/)
+  - [Competitive programming by Rust](https://speakerdeck.com/fnwiya/competitive-programming-by-rust)
+
 ---
 
 ## 経歴
@@ -64,7 +73,7 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 
 ### 武蔵野美術大学 通信教育課程芸術文化学科文化支援コース
 
-- 在籍期間:2019.09 - 2022.3 中退
+- 在籍期間:2019.09 - 2022.03 中退
 
 ### 株式会社ユーザベース
 
