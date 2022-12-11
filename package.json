@@ -8,7 +8,7 @@
   "dependencies": {
     "@emotion/babel-preset-css-prop": "^10.0.23",
     "@emotion/core": "^10.0.22",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "markdown-to-jsx": "^6.10.3",
     "next": "^12.1.0",
     "raw-loader": "^4.0.0",
