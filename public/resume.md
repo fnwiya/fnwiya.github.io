@@ -53,6 +53,8 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 
 ### 登壇
 
+- 2023.02 [Developers Summit 2023](https://event.shoeisha.jp/devsumi/20230209/session/4178)
+  - [有志によって日本最大級の選挙情報サイトが生まれた物語](https://docs.google.com/presentation/d/1CrpdaUslHJ04H6h89MnE6uIknmeinmzup6GvvLNpqAE/edit?usp=sharing)
 - 2022.11 [pmconf2022](https://2022.pmconf.jp/session/NXN1Du4s)
   - [プロダクトマネジメントと民主主義](https://speakerdeck.com/fnwiya/20221102-pmconf-b1-hurotakutomanesimentotomin-zhu-zhu-yi)
 - 2018.11 [Shinjuku.rs #1 @FORCIA](https://forcia.connpass.com/event/105485/)
