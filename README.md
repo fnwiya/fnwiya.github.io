@@ -5,12 +5,12 @@
 ## Setup
 
 ```.sh
-yarn
+npm i
 ```
 
 ## Update
 
 1. Edit `public/resume.md`
-2. `yarn build`
-3. `yarn export`
+2. `npm run build`
+3. `npm run export`
 4. commit & push

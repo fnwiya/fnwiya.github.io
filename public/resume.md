@@ -64,6 +64,11 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 - 2018.09 [Rust の LT 会！ Rust 入門者の集い #5](https://rust.connpass.com/event/92821/)
   - [Competitive programming by Rust](https://speakerdeck.com/fnwiya/competitive-programming-by-rust)
 
+### インタビュー
+
+- [たった 3 人で 2 ヶ月の中、プロジェクトを完遂するための作らないプロダクト開発。月 150 回プロダクトを見る CPO の開発美学| 河野 文弥 Kohno Fumiya](https://note.com/boulder2019/n/ndf7f7413fb69)
+- [政治家も起業家も「挑戦者」だと気付いた時、自分と会社のミッションが重なった](https://www.wantedly.com/companies/uzabase-inc/post_articles/182190)
+
 ---
 
 ## 経歴
