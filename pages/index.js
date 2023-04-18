@@ -24,7 +24,7 @@ const IndexPage = () => {
         <Markdown
           css={css`
             h1 {
-              background-color: #004d40;
+              background-color: #003149; // 鉄紺
               color: #fff;
               margin: 0 -20px 15px;
               padding: 16px 20px;
