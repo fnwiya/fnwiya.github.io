@@ -3,7 +3,7 @@
 ## プロフィール
 
 フォルシア株式会社に新卒入社、2018 年に株式会社ユーザベースにジョイン、スタートアップ情報プラットフォーム「INITIAL」の PdM を務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より株式会社 wellday に Chief Product Officer として参画。  
-NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」をリリース。
+NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」をリリース。
 
 ---
 
@@ -16,21 +16,14 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
   - Ruby on Rails
   - Node.js
   - PostgreSQL
-  - AWS Media Services
-  - Firebase
 - できる
   - Rust
   - Python
   - Vue/Nuxt.js
-  - D3.js
-  - React Native
-  - AWS ECS
-  - AWS CodePipeline
 
 ### プロダクトマネジメント
 
-- BtoB SaaS の立ち上げ
-- ファシリテーション
+- BtoB SaaS
 
 ### ドメイン
 
@@ -93,7 +86,7 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
 ### NPO 法人 Mielka
 
 - 在籍期間:2017.04 -
-- 前身となる ivote 関西の立ち上げメンバーとして副代表を務める
+- 前身となる学生団体 ivote 関西の立ち上げメンバーとして副代表を務める
 - 2020.4 より理事就任
 - 政治情報可視化サービス [JAPAN CHOICE](http://japanchoice.jp/)の開発
   - [BuzzFeed](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice)
@@ -110,7 +103,6 @@ NPO 法人 Mielka として政治情報可視化サービス「JAPAN CHOICE」�
   - コード規約の策定
   - 社内標準のアプリケーションフレームワークを独自のものから React/Redux へ刷新
   - アドベントカレンダーの企画運営
-  - 社内 ISUCON の実施、[ISUCON](http://isucon.net/)への参加
 
 ### NPO 法人ドットジェイピー
 

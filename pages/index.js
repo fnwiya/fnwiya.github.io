@@ -11,6 +11,9 @@ const IndexPage = () => {
         line-height: 1.5;
         word-break: break-all;
         color: #111;
+        a {
+          color: #111;
+        }
       `}
     >
       <div
