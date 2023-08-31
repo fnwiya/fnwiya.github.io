@@ -2,7 +2,7 @@
 
 ## プロフィール
 
-フォルシア株式会社に新卒入社、2018 年より株式会社ユーザベースにてスタートアップ情報プラットフォーム「INITIAL」の 開発、プロダクトマネジメントを務め、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より兼業として株式会社 wellday に Chief Product Officer として参画。  
+2016 年フォルシア株式会社に新卒入社、2018 年より株式会社ユーザベースにてスタートアップ情報プラットフォーム「INITIAL」の 開発、プロダクトマネジメントに従事し、2021 年 4 月より INITIAL 事業 執行役員 CPO 就任。2020 年 4 月より兼業として株式会社 wellday に Chief Product Officer として参画。  
 NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」をリリース。
 
 ---
@@ -13,11 +13,11 @@ NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」を�
 
 - 得意
   - React/Next.js
-  - Ruby on Rails
   - Node.js
   - PostgreSQL
 - できる
   - Rust
+  - Ruby on Rails
   - Python
   - Vue/Nuxt.js
 
@@ -70,9 +70,10 @@ NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」を�
 
 - 在籍期間:2020.04 -
 
-### 武蔵野美術大学 通信教育課程芸術文化学科文化支援コース
+### 武蔵野美術大学
 
 - 在籍期間:2019.09 - 2022.03 中退
+- 通信教育課程芸術文化学科文化支援コース
 
 ### 株式会社ユーザベース
 
@@ -82,6 +83,7 @@ NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」を�
 - [2021 年 4 月より INITIAL 事業 執行役員 CPO](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/)
 - 2021 年度 10 月プロジェクトリーダーとして[NewsPicks スタートアップ](https://www.uzabase.com/jp/news/newspicksstartup/)をローンチ。
 - [2021 年度グッドデザイン賞](https://www.uzabase.com/jp/news/initial-gooddesign-award-2021/)をディレクターとして受賞
+- 2023.8 社内新規事業コンテストにてグランプリを受賞
 
 ### NPO 法人 Mielka
 
@@ -98,11 +100,8 @@ NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」を�
 ### フォルシア株式会社
 
 - 在籍期間:2016.04 - 2018.07
+- 2018.1 よりチーフエンジニアに就任
 - HIS, JR 東海ツアーズといった国内大手旅行会社の検索エンジンを開発
-- 技術コミッティメンバーとして全社の技術戦略を推進
-  - コード規約の策定
-  - 社内標準のアプリケーションフレームワークを独自のものから React/Redux へ刷新
-  - アドベントカレンダーの企画運営
 
 ### NPO 法人ドットジェイピー
 
@@ -110,9 +109,10 @@ NPO 法人 Mielka にて政治情報可視化サービス「JAPAN CHOICE」を�
 - 大学生向けの議員インターンシップを運営
 - 模擬投票アプリケーション「Vote on Campus!」の開発
 
-### 京都大学 法学部
+### 京都大学
 
 - 在籍期間:2012.04 - 2016.03
+- 法学部。専攻は現代政治
 
 ---
 
