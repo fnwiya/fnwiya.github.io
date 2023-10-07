@@ -20,7 +20,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export && cp -f out/index.html .",
-    "update": "npm run build && npm run export && gitupd"
+    "update": "npm run build && npm run export"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
