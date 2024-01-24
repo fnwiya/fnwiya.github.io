@@ -88,6 +88,7 @@
 - 2021 年度 10 月プロジェクトリーダーとして[NewsPicks スタートアップ](https://www.uzabase.com/jp/news/newspicksstartup/)をローンチ。
 - [2021 年度グッドデザイン賞](https://www.uzabase.com/jp/news/initial-gooddesign-award-2021/)をディレクターとして受賞
 - 2023.8 社内新規事業コンテストにてグランプリを受賞
+- 2024.1 SaaS 事業執行役員 経営企画・金融機関・コンサルティングファーム支援 プロダクトマネージャー就任。SPEEDA/MIMIR/INITIAL のプロダクトマネジメントを担当。
 
 ### NPO 法人 Mielka
 
