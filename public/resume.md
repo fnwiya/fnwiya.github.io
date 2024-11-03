@@ -18,12 +18,9 @@
 - できる
   - Rust
   - Ruby on Rails
+  - Go
   - Python
   - Vue/Nuxt.js
-
-### プロダクトマネジメント
-
-- BtoB SaaS
 
 ### 領域
 
@@ -82,7 +79,7 @@
 ### 株式会社ユーザベース
 
 - 在籍期間:2018.08 -
-- 起業家と未来の仲間をつなげるライブアプリ ami の立ち上げ
+- 起業家と未来の仲間をつなげるライブアプリ ami の開発・カメラマン
 - 事業統合を伴う[リブランディング](https://www.uzabase.com/jp/news/initial-release/)を PjM としてリード
 - [2021 年 4 月より INITIAL 事業 執行役員 CPO](https://www.uzabase.com/jp/news/uzabase-forcas-initial-new-leaders/)
 - 2021 年度 10 月プロジェクトリーダーとして[NewsPicks スタートアップ](https://www.uzabase.com/jp/news/newspicksstartup/)をローンチ。
